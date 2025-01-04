@@ -4,7 +4,7 @@
 
 - 地図データやスタイルの比較検証を簡単にしたくて作りました
 
-- Todo: ここにデモ動画挿入
+- [Demo (Instagram)](https://www.instagram.com/p/DEZKp76gk9R/)
 
 <br>
 
