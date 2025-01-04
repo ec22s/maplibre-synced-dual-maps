@@ -56,9 +56,7 @@ class MapViewController: UIViewController, MLNMapViewDelegate {
 
     private func createButton(imageName: String, param: Double) -> UIButton {
         let button = UIButton(frame: .zero, primaryAction: UIAction { _ in
-            for mapView in self.mapViews {
-                mapView.zoomLevel = mapView.zoomLevel + param
-            }
+            self.mapViews[0].zoomLevel += param
         })
 
         var bgConf = UIBackgroundConfiguration.clear()
