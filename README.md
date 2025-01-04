@@ -48,13 +48,10 @@
 
 - 下記を変更することで可能です
 
-  Todo: ここにConstatns.swiftを貼る
-
-- 地図スタイルが三つ以上の場合は未検証です
-
-  - 問題があればIssue報告してもらえると助かります🙇‍♂️
+  https://github.com/ec22s/maplibre-synced-dual-maps/blob/235bed9befec37eca3161914450122f73fbe1f32/MapLibreSyncedDualMaps/Constants.swift#L4-L16
 
 <br>
 
+- ただし地図スタイルが三つ以上の場合は未検証です
 
-
+  - 問題があればIssue報告してもらえると助かります🙇‍♂️
